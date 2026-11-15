@@ -1,3 +1,5 @@
+> **This fork only carries branches for pull requests to [moderation-api/unicode-spoofing](https://github.com/moderation-api/unicode-spoofing).** The extended, maintained version is **[unspoof](https://github.com/cycanics/unspoof)** — more scripts, a strict hidden-character mode, faster — see [cycanics.github.io/repos](https://cycanics.github.io/repos/#unspoof).
+
 # @moderation-api/unicode-spoofing
 
 [![npm version](https://img.shields.io/npm/v/@moderation-api/unicode-spoofing.svg)](https://www.npmjs.com/package/@moderation-api/unicode-spoofing)
